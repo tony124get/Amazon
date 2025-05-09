@@ -4,7 +4,7 @@ body {
   background-color: #f3f3f3;
 }
 
-/* Header Styles (unchanged) */
+
 .amazon-header {
   display: flex;
   align-items: center;
@@ -13,6 +13,7 @@ body {
   color: white;
   padding: 5px 10px;
   height: 60px;
+  position: fixed;
 }
 
 .logo-section {
